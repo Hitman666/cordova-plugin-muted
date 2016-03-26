@@ -25,4 +25,4 @@ var Muted =  {
 
 };
 
-module.export = Muted;
+module.exports = Muted;
